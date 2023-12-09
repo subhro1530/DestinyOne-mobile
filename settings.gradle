@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Destiny One"
+rootProject.name = "destiny_one"
 include ':app'
